@@ -4,5 +4,8 @@ Used Math.floor(Math.random() * 255) to change the color of box and body by rand
 
 Here is How it looks like :  
 
-https://github.com/priyapri-23/WebDev-Projects/assets/100368616/b97a9a77-c858-40e0-99b8-e9c9260a8cf2
+
+
+https://github.com/priyapri-23/WebDev-Projects/assets/100368616/71016197-bb5b-4f2d-9589-9e9fd99871f8
+
 
